@@ -4,7 +4,7 @@ This project investigates different neural network architectures for Aspect-Base
 
 We implement and evaluate three Bi-LSTM based model variants, including an attention-enhanced Bi-LSTM, which allows the model to focus on aspect-relevant words in a sentence.
 
-###Methodology
+### Methodology
 
 We designed three Bi-LSTM model variants:
 
